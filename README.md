@@ -63,7 +63,7 @@
 - 🥋 Jiu jitsu
 - 🎹 Piano
 - 🧩 Rubik’s cubes
-- Alotta hiking and camping
+- 🌲 Alotta hiking and camping
 - 🧠 Anything that makes me think a little too hard
 
 ---
