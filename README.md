@@ -22,9 +22,6 @@
   <a href="https://instagram.com/itsmaverickagain" target="_blank" title="Instagram">
     <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40"/>
   </a>
-  <a href="https://youtube.com/@AstroTheGreat853" target="_blank" title="YouTube">
-    <img src="https://skillicons.dev/icons?i=youtube" width="40" height="40"/>
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
