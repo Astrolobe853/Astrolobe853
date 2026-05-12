@@ -18,34 +18,34 @@
 
 ## About me
 
-- 🔭 Currently deep in **discrete mathematics**
-- 🌱 Learning **Rust + Python for cryptography**
-- 🧠 Interested in **number theory, modular arithmetic, and algorithmic thinking**
-- 🎯 Goal: build strong foundations for **cryptography + competitive programming**
-- 📫 **astrolobe853@gmail.com**
-- ⚡ Fun fact: **I might have the title of most move-efficient 3x3 Rubik’s Cube solve while biking with no hands**
+- Currently learning **discrete mathematics**
+- Learning **Rust + Python for cryptography**
+- Interested in **number theory, modular arithmetic, and algorithmic thinking**
+- Goal: build strong foundations for **cryptography + competitive programming**
+- **astrolobe853@gmail.com**
+- Fun fact: **I might have the title of most move-efficient 3x3 Rubik’s Cube solve while biking with no hands**
 
 ---
 
 ## What I’m building
 
-- 🔐 **Encrypted password manager (Python)**
-- 🕵️ **Classical cipher + cryptanalysis tool**
-- 🔢 **Number theory sandbox**
+- **Encrypted password manager (Python)**
+- **Classical cipher + cryptanalysis tool**
+- **Number theory sandbox**
   - primes
   - divisibility
   - modular arithmetic
-- 🧩 Solving math-heavy problems for **competitive programming**
+- Solving math-heavy problems for **competitive programming**
 
 ---
 
 ## Currently learning
 
-- 📚 Discrete math (sets, logic, combinatorics)
-- 🔢 Number theory (modular arithmetic, primes)
-- 🦀 Rust fundamentals
-- ⚙️ Writing cleaner, more efficient code
-- 🧠 Thinking like a problem solver, not just a coder
+- Discrete math (sets, logic, combinatorics)
+- Number theory (modular arithmetic, primes)
+- Rust fundamentals
+- Writing cleaner, more efficient code
+- Thinking like a problem solver, not just a coder
 
 ---
 
@@ -59,12 +59,12 @@
 
 ## Beyond coding
 
-- ♟️ Chess (competitive mindset carries over hard)
-- 🥋 Jiu jitsu
-- 🎹 Piano
-- 🧩 Rubik’s cubes
-- 🌲 Alotta hiking and camping
-- 🧠 Anything that makes me think a little too hard
+- Chess
+- Jiu jitsu
+- Piano
+- Rubik’s cubes
+- Alotta hiking and camping
+- Anything that makes me think a little too hard
 
 ---
 
